@@ -1,6 +1,11 @@
 # gta6-meme-x-01 — "The Getaway Driver"
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/OhhRayy/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/OhhRayy/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **"Post a GTA 6 meme on X"** ($500 total, top 50 share it, 1st place $100).
+Bounty page: https://make.fun/bounty/gta6-meme-x-01
 Deadline: Monday 23 Nov 2026, 21:00 WIB (14:00 UTC).
 
 ## The meme
@@ -48,13 +53,12 @@ Run it locally:
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`POST.json` currently holds a placeholder: replace it with the real post URL after
-posting on X, then submit before the deadline.
+`POST.json` now holds the real post URL (posted on X by Fahmi, 20 Nov 2026).
 
 ## Status
 
 - [x] Meme made (`meme-final.png`)
 - [x] Post text drafted (`POSTING.md`)
-- [ ] Posted on X by Fahmi (from his phone — the agent cannot post to X from here)
-- [ ] `POST.json` updated with the real post URL
+- [x] Posted on X by Fahmi (from his phone — the agent cannot post to X from here)
+- [x] `POST.json` updated with the real post URL
 - [ ] Submitted via the kit CLI (parent/coordinator step, after the post is live)
